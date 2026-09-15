@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    text-decoration: none; 
+}
+
+a {
+    color: #4E80EE;
+}
+
+h1 {
+    font-size: 36px;
+    color: #111827;
+    margin-bottom: 10px;
+}
+
+.header {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #111827;
+    margin-bottom: 10px;
+}
+
+.main {
+    background-color: #F8FAFC;
+    padding: 60px 70px;
+}
+
+.negrita {
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+}
+
+ul, ol {
+    padding-left: 0px;
+    margin-left: 0px;
+    list-style-position: inside;
+    margin: 10px 10px 10px 10px;
+}
